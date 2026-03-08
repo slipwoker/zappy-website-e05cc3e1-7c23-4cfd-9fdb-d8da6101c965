@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מוזיאון ייחודי המוקדש לנשים פורצות דרך וגיבורות בהיסטוריה. חוו מסע מרתק בעקבות נשים שהותירו חותם בלתי נשכח על התרבות והחברה שלנו.
+
+### תערוכות
+https://example.com/exhibitions
+צפו בתערוכות ייחודיות המציגות סיפורים מרגשים של נשים שפרצו מחסומים. גלו דמויות נשיות שהשפיעו על מהלך ההיסטוריה במוזיאון שלנו.
+
+### אוספים ומחקר
+https://example.com/collections
+חקרו אוספים ייחודיים ומחקרים מעמיקים על נשים שעיצבו את העולם. גישה למאגר עשיר של מסמכים, תמונות וסיפורים היסטוריים במוזיאון שלנו.
+
+### צור קשר ובקר
+https://example.com/contact
+הזמינו ביקור במוזיאון נשים פורצות דרך בישראל. קבלו מידע על שעות פתיחה, סיורים מודרכים והזדמנות לחוות מסע בעקבות נשים גיבורות בהיסטוריה.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
