@@ -3239,7 +3239,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
   color: var(--text-dark);
   margin: 0;
   max-width: 600px;
-  margin-inline-start: auto;
+  margin-inline-end: auto;
 }
 
 .exhibitions-exhibitions-grid-section .exhibitions-grid {
@@ -5968,6 +5968,22 @@ body.accessibility-widget-visible ._access-menu {
 .favorite-remove-btn:hover { background: #dc2626; color: white; }
 @media (max-width: 480px) { .favorites-grid { grid-template-columns: repeat(2, 1fr); gap: 10px; } }
 /* ========== END PRODUCT ICON STYLES ========== */
+
+/* ========== ORPHANED_ZOOM_IMG_FIX ========== */
+@media (max-width: 768px) {
+  .zappy-preserve-css-grid > img[data-zappy-zoom],
+  [class*="-grid"] > img[data-zappy-zoom] {
+    position: relative !important;
+    width: 100% !important;
+    height: auto !important;
+    max-width: 100% !important;
+    max-height: 300px !important;
+    object-fit: cover !important;
+    left: auto !important;
+    top: auto !important;
+  }
+}
+/* ========== END ORPHANED_ZOOM_IMG_FIX ========== */
 
 
 /* ========== GRID RESPONSIVE FIX (zappy-grid-mobile-fix) ========== */
